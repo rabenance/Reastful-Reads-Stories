@@ -62,5 +62,21 @@
     "file_url": "https://raw.githubusercontent.com/rabenance/Reastful-Reads-Stories/refs/heads/main/Stories/spanish/Story_10___spanish___La_Reliquia_Enigmatica.txt",
     "date_added": "2026-05-26",
     "description": "Cuando la restauradora Eliza adquiere un misterioso baúl antiguo, desenreda un tapiz oculto de historias — el sacrificio de un soldado de la Guerra Civil, un amor multigeneracional y un secreto ligado al Ferrocarril Subterráneo — que cambia su vida para siempre."
+  },
+  {
+    "id": "the_enigmatic_relic_fr",
+    "title": "La Relique Énigmatique : Un Héritage d'Amour et de Liberté",
+    "genre": "Historical Fiction / Mystery",
+    "theme": "Memory, Love & The Fight for Freedom",
+    "language": "French",
+    "size_kb": 81,
+    "pages": 64,
+    "word_count": 12447,
+    "read_time_min": 49,
+    "listen_time_min": 62,
+    "cover_url": "https://raw.githubusercontent.com/rabenance/Reastful-Reads-Stories/refs/heads/main/Covers/cover_story_10___200_200.png",
+    "file_url": "https://raw.githubusercontent.com/rabenance/Reastful-Reads-Stories/refs/heads/main/Stories/french/Story_10___french___La_Relique_Enigmatique.txt",
+    "date_added": "2026-05-26",
+    "description": "Lorsque la restauratrice Eliza acquiert un mystérieux coffre ancien, elle démêle une tapisserie cachée d'histoires — le sacrifice d'un soldat de la Guerre de Sécession, un amour multigénérationnel et un secret lié au Chemin de fer clandestin — qui change sa vie à jamais."
   }
 ]
