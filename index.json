@@ -30,5 +30,37 @@
     "file_url": "https://raw.githubusercontent.com/rabenance/Reastful-Reads-Stories/refs/heads/main/Stories/Story_2___Puzzle_City_Symphony___2026_05_25.txt",
     "date_added": "2026-05-25",
     "description": "In a city where every district pulses with its own color and power, Copper and Mercury race to rebuild a lost conductor's baton — and heal the fractured harmony that once united Puzzle City."
+  },
+  {
+    "id": "the_enigmatic_relic_en",
+    "title": "The Enigmatic Relic: A Legacy of Love and Freedom",
+    "genre": "Historical Fiction / Mystery",
+    "theme": "Memory, Love & The Fight for Freedom",
+    "language": "English",
+    "size_kb": 81,
+    "pages": 64,
+    "word_count": 12447,
+    "read_time_min": 49,
+    "listen_time_min": 62,
+    "cover_url": "https://raw.githubusercontent.com/rabenance/Reastful-Reads-Stories/refs/heads/main/Covers/cover_story_10___200_200.png",
+    "file_url": "https://raw.githubusercontent.com/rabenance/Reastful-Reads-Stories/refs/heads/main/Stories/Story_10___english___The_Enigmatic_Relic.txt",
+    "date_added": "2026-05-26",
+    "description": "When restorer Eliza acquires a mysterious antique chest, she unravels a hidden tapestry of stories — a Civil War soldier's sacrifice, a multigenerational love, and a secret tied to the Underground Railroad — that changes her life forever."
+  },
+  {
+    "id": "the_enigmatic_relic_es",
+    "title": "La Reliquia Enigmática: Un Legado de Amor y Libertad",
+    "genre": "Historical Fiction / Mystery",
+    "theme": "Memory, Love & The Fight for Freedom",
+    "language": "Spanish",
+    "size_kb": 81,
+    "pages": 64,
+    "word_count": 12447,
+    "read_time_min": 49,
+    "listen_time_min": 62,
+    "cover_url": "https://raw.githubusercontent.com/rabenance/Reastful-Reads-Stories/refs/heads/main/Covers/cover_story_10___200_200.png",
+    "file_url": "https://raw.githubusercontent.com/rabenance/Reastful-Reads-Stories/refs/heads/main/Stories/spanish/Story_10___spanish___La_Reliquia_Enigmatica.txt",
+    "date_added": "2026-05-26",
+    "description": "Cuando la restauradora Eliza adquiere un misterioso baúl antiguo, desenreda un tapiz oculto de historias — el sacrificio de un soldado de la Guerra Civil, un amor multigeneracional y un secreto ligado al Ferrocarril Subterráneo — que cambia su vida para siempre."
   }
 ]
